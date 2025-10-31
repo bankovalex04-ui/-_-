@@ -89,4 +89,7 @@ python etl/main.py --file_id 1gz1OGvguKQbgIgdKeAuoIfU5rVnI3kMW
 ```
 Ниже представлен выводы после запуска etl пакета:
 
+<img width="447" height="112" alt="image" src="https://github.com/user-attachments/assets/7bfcd180-21d5-443e-940f-c6b6b2363664" />
+
+
 ## EDA
