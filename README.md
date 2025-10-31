@@ -93,3 +93,4 @@ python etl/main.py --file_id 1gz1OGvguKQbgIgdKeAuoIfU5rVnI3kMW
 
 
 ## EDA
+[Ссылка на EDA в nbviewer.org](https://nbviewer.org/github/bankovalex04-ui/-_-/blob/main/notebooks/EDA.ipynb)
